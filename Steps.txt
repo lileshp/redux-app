@@ -1,0 +1,19 @@
+Steps to create React-Redux App:
+    1. Install Node
+    2. Create an app with react
+    3. install redux:
+        >> npm i redux react-redux redux-devtools-extension
+    4. Install bootstrap (if you want to use)
+        >> npm i bootstrap
+    5. Install react-avatar
+        >> npm i react-avatar
+    6. Add link of index.html in google icons
+    7. install react-router-dom
+    8. Clean app (remove unnecessary files)
+    9. create a Navbar component
+    10. Create a tabel (component) for display contacts
+    11. create store with Redux.
+    12. Connect store with main app.
+    13. create action.
+    14. create reducer.
+    15. create 
